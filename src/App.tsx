@@ -1,5 +1,4 @@
-import React from "react";
-import logo from "./logo.svg";
+// import "bootstrap/dist/css/bootstrap.min.css"
 import "./App.css";
 import { useDispatch, useSelector } from "react-redux";
 import { numberActions } from "./store/slice/number";
